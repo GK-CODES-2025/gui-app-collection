@@ -12,4 +12,4 @@ This application focuses on simplicity and user experience while maintaining a m
 
 ## Screenshot
 
-                                 <img width="402" height="564" alt="Screenshot 2025-07-19 102903" src="https://github.com/user-attachments/assets/f377c2b9-f888-4aff-ab9d-1d0785a21f39" />
+<img width="402" height="564" alt="Screenshot 2025-07-19 102903" src="https://github.com/user-attachments/assets/f377c2b9-f888-4aff-ab9d-1d0785a21f39" />
